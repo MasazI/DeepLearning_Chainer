@@ -1,7 +1,7 @@
 # DeepLearning_Chainer
 
 - tutorial include how to use Chainer.
-- MLP
+- MLP (using Chain structure)
 
 ---
 
